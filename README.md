@@ -1,6 +1,6 @@
 # Hello there, I'm Abdul Samad! 🙋🏽‍♀
 
-![Sample Image](Banner.png)
+![Sample Image](bladerunner2049.png)
 
 ## About Me
 
