@@ -4,15 +4,13 @@
 
 ## About Me
 
-I'm a *self-taught Front-End Developer* from *Sydney, Australia* with a passion for crafting user-friendly and visually captivating websites. With a focus on clean code and continuous learning, I enjoy translating design concepts into visually appealing and functional digital experiences.
+I'm a *self-taught Front-End Developer* from *Sydney, Australia* who just absolutely LOVES to fix bugs. I just love that level of satisfaction you recieve after spending countless hours tinkering on a bug and finally getting it to work. 
 
-Armed with a *Bachelor's degree in Medical Science from UTS*, I ventured into the exciting world of IT, where I discovered my true calling as a Frontend Software Engineer. With each line of code, I strive to create elegant solutions that merge form and function, leaving a lasting impression on those who interact with them. I'm currently on a self-study mission to reach the pinnacle of dev greatness, or at least be the best in Australia... no big deal! 💪
+I'd say my desire to learn web development stems from my curious and creative nature. It was through online tutorials and countless hours of self study that I was able to hone my skills in HTML, CSS, JavaScript and React. As I delved deeper into the intricacies of front-end development, I discovered the endless possibilities that come with creating seamless and intuitive user experiences.
 
-I've got a keen eye for design and a love for experimenting with colours, which is why I find styling UI (especially responsive design) to be one of my favourite parts of the job. So let's build something beautiful together and make the internet a better place (or at least make it look pretty). 🎨🖌
-
-- 👩🏽‍💻 *Looking for opportunities!*
-- 🌱 I’m currently learning *React.js*
-- ⚡ Fun fact: I'm the rare breed who *loves CSS*
+- 👩🏽‍💻 *Would love to work!*
+- 🌱 *React.js* in progress
+- ⚡ Fun fact: I lose track of time when coding 
 
 ## My Skill-set
 
